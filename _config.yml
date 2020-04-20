@@ -84,7 +84,8 @@ analytics:
 author:
   name             : "Namu Park"
   avatar           : "사진후보2.jpg"
-  bio              : 'M.S. in Digital Analytics,                            Yonsei University'
+  bio              : """M.S. in Digital Analytics,
+                        Yonsei University"""
   location         : "Seoul, South Korea"
   employer         : 
   googlescholar    : 
