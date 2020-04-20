@@ -13,7 +13,7 @@ Seok-Jun Bu, Namu Park, Gue-Hwan Nam, Jae-Yong Seo, Sung-Bae Cho
 
 **Data Augmentation using Empirical Mode Decomposition on Neural Networks to Classify Impact Noise in Vehicle**  
 Gue-Hwan Nam, Seok-Jun Bu, Namu Park, Jae-Yong Seo, Hyeon-Cheol Jo, Won-Tae Jeong  
-*International Conference on Acoustics Speech and Signal Processing*, *2020* \[[<span style="color:blue">open preview</span>](https://ieeexplore.ieee.org/document/9053671)\]
+*International Conference on Acoustics Speech and Signal Processing*, *2020*  (Speaker) \[[<span style="color:blue">open preview</span>](https://ieeexplore.ieee.org/document/9053671)\]
 
 **Classifying Impact Noise in Car Steering Gear using Mel-spectrogram based Convolutional-Recurrent Neural Network**  
 Namu Park, Seok-Jun Bu, Sung-Bae Cho  
