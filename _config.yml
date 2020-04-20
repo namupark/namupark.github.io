@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saurabh Garg"
+title                    : "Namu Park"
 title_separator          : "-"
-name                     : &name "Saurabh Garg"
+name                     : &name "Namu Park"
 description              : &description "Saurabh Garg -- First year PhD student at CMU"
-url                      : https://saurabhgarg1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://namupark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "saurabhgarg1996/saurabhgarg1996.github.io"
+repository               : "namupark/namupark.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,25 +82,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Saurabh Garg"
+  name             : "namupark"
   avatar           : "profile.png"
-  bio              : "PhD in Machine Learning, Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "MS in Digital Analytics, Yonsei University(Seoul, Korea)"
+  location         : "Seoul, KO"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en"
-  email            : "garg.saurabh.2014@gmail.com"
+  googlescholar    : 
+  email            : "arbre0125@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/saurabhgarg1996" 
+  facebook         : 
   foursquare       :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
+  linkedin         : linkedin.com/in/namupark0125
   orcid            :
   pinterest        :
   soundcloud       :
