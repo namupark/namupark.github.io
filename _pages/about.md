@@ -9,5 +9,3 @@ redirect_from:
 
 
 Hello! I'm Namu Park. Website is on update.
-
-
