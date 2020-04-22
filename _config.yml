@@ -176,6 +176,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   contact:
     output: true
     permalink: /:collection/:path/
