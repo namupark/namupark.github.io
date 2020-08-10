@@ -5,6 +5,3 @@ permalink: /projects/
 urlcolor: blue
 author_profile: true
 ---
-
-<br/>
-**To be updated**

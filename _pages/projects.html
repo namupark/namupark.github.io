@@ -1,12 +1,19 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
+redirect_from: 
+  - /projects
+  - /projects.html
+  - /portfolio
+  - /portfolio.html
 ---
 
 {% include base_path %}
 
-{% for post in site.projects reversed %}
+
+{% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
+
