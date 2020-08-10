@@ -13,6 +13,6 @@ As an undergraduate student, I majored in Convergence Software, Economics, and F
 
 I have a broad research interest area in computer science, especially **machine learning**. I had the great opportunity to participate in diverse projects related to **natural language processing** , and currently, I am working on some information retrieval in Electronic Health Records (EHRs). I also worked on **signal processing** research projects, the purpose of which was to classify certain noises from a vehicle.
 
-Working as a re[Asan Medical Center](http://eng.amc.seoul.kr/gb/lang/main.do) for over a half a year, which is the most renowned medical center in Korea , I felt the necessity for data scientists focusing on Electronic Health Records, especially text data. In other words, I acknowledged that proper machine learning techniques and data scientific approach are needed to stimulate the efficient use of these data. 
+Working with [Asan Medical Center](http://eng.amc.seoul.kr/gb/lang/main.do) for over a half a year, which is the most renowned medical center in Korea , I felt the necessity for data scientists focusing on Electronic Health Records, especially text data. In other words, I acknowledged that proper machine learning techniques and data scientific approach are needed to stimulate the efficient use of these data. 
 
 Therefore, my future goal is to contribute to the **effective use of medical data**, which will eventually help not only medical experts, but also patients needing accurate diagnoses.
