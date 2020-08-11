@@ -2,7 +2,7 @@
 layout: archive
 title: "Research Projects"
 permalink: /projects/
-urlcolor: black
+urlcolor: blue
 author_profile: true
 ---
 
