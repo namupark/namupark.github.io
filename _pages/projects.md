@@ -12,6 +12,8 @@ author_profile: true
 
 ## [Consensus Analysis of Drug Repurposing Literatures for COVID-19](https://namupark.github.io/projects/2/)
 
+![](./project2.png)
+
 ------
 
 ## [Deep Learning based Steering Noise Classification](https://namupark.github.io/projects/3/)
