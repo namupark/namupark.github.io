@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Projects - Click each title for detailed information"
 permalink: /projects/
 urlcolor: blue
 author_profile: true
@@ -11,8 +11,6 @@ author_profile: true
 ------
 
 ## [Consensus Analysis of Drug Repurposing Literatures for COVID-19](https://namupark.github.io/projects/2/)
-
-<img src="../images/project2.png" style="zoom:40%;" />
 
 ------
 
