@@ -12,7 +12,7 @@ author_profile: true
 
 ## [Consensus Analysis of Drug Repurposing Literatures for COVID-19](https://namupark.github.io/projects/2/)
 
-![Checking for the possible consensus among COVID-19 drug repurposing publications](C:/Users/arbre/OneDrive/문서/namupark.github.io/images/project2.png)
+<img src="C:\Users\arbre\OneDrive\문서\namupark.github.io\_pages\project2.png" style="zoom:48%;" />
 
 ------
 
