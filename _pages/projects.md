@@ -6,7 +6,7 @@ urlcolor: black
 author_profile: true
 ---
 
-## [Information Extraction from Narrative Electronic Health Records using Semi-supervised Learning](https://namupark.github.io/projects/1/)
+## [Information Extraction from Electronic Health Records using Semi-supervised Learning](https://namupark.github.io/projects/1/)
 
 ------
 
