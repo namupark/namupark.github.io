@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects - Click each title for detailed information"
+title: "Projects"
 permalink: /projects/
 urlcolor: blue
 author_profile: true
