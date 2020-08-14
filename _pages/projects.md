@@ -43,7 +43,3 @@ author_profile: true
 ------
 
 ### [Sentimental Analysis of Cyber Campus data, focused on Group Assignment Discussion](https://namupark.github.io/projects/10/)
-
-------
-
-### 
