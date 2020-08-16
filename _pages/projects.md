@@ -29,8 +29,9 @@ Steering gear noise classification using Convolutional-Recurrent Neural Network
 
 ### [Automatic Translation of Affiliations and Author Names in Research Papers using Attention](https://namupark.github.io/projects/4/)
 
-Translating affiliation and author information ENG2KOR  
-*with College of Medicine, Yonsei University*
+Translating affiliation and author information in medical publications (ENG2KOR)  
+*with College of Medicine, Yonsei University*  
+![](./translator.png){:height="66%" width="66%"}
 
 ------
 
@@ -38,7 +39,7 @@ Translating affiliation and author information ENG2KOR
 
 Curation system that helps graduate students to search for publications of their interest  
 *Fall 2019 course project for Natural Language Processing*  
-  
+
 ![](./django_web.png){:height="66%" width="66%"}
 
 ------
