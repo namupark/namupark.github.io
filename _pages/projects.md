@@ -29,7 +29,7 @@ Steering gear noise classification using Convolutional-Recurrent Neural Network
 
 ### [Automatic Translation of Affiliations and Author Names in Research Papers using Attention](https://namupark.github.io/projects/4/)
 
-Translating affiliation and author information written in English to Korean  
+Translating affiliation and author information ENG2KOR  
 *with College of Medicine, Yonsei University*
 
 ------
@@ -37,7 +37,8 @@ Translating affiliation and author information written in English to Korean
 ### [A Curation System for Academic Papers using Paper2vec and BERT Embeddings](https://namupark.github.io/projects/5/)
 
 Curation system that helps graduate students to search for publications of their interest  
-*Fall 2019 course project for Natural Language Processing* 
+*Fall 2019 course project for Natural Language Processing*    
+![](./django_web.png){:height="66%" width="66%"}
 
 ------
 
@@ -45,7 +46,7 @@ Curation system that helps graduate students to search for publications of their
 
 Detecting poisonous clause in a company  
 *with Samsung Engineering*  
-   
+
 Below figure describes the algorithm used in this project, applied in a benchmark data (Kaggle Insult data)  
 ![](./clause.png){:height="66%" width="66%"}
 
