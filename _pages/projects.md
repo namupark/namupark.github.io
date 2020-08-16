@@ -37,7 +37,8 @@ Translating affiliation and author information ENG2KOR
 ### [A Curation System for Academic Papers using Paper2vec and BERT Embeddings](https://namupark.github.io/projects/5/)
 
 Curation system that helps graduate students to search for publications of their interest  
-*Fall 2019 course project for Natural Language Processing*    
+*Fall 2019 course project for Natural Language Processing*  
+  
 ![](./django_web.png){:height="66%" width="66%"}
 
 ------
