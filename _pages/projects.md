@@ -53,6 +53,8 @@ Detecting poisonous clause in a company
 Illustrating the change in consumers' reaction after the delayed launching of the Galaxy Fold  
 *Spring 2019 course project for Text Mining* 
 
+<img src="./galaxy_fold.png" style="zoom:33%;" />
+
 ------
 
 ### [Rule-based Semantic Graph Analysis using Chat Log](https://namupark.github.io/projects/8/)
