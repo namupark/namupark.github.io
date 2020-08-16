@@ -64,4 +64,5 @@ Extracting user patterns using Monte-Carlo Tree Search algorithm in the semantic
 
 ### [Sentimental Analysis of Cyber Campus data, focused on Group Assignment Discussion](https://namupark.github.io/projects/10/)
 
-Checking the relationship between a student's participation in a group assignment and his/her final grade           *with Teaching and Learning Innovation Center, Yonsei University*
+Checking the relationship between a student's participation in a group assignment and his/her final grade  
+*with Teaching and Learning Innovation Center, Yonsei University*
