@@ -23,7 +23,9 @@ Observing the possible consensus among publications related to COVID-19 drug rep
 ### [Deep Learning based Steering Noise Classification](https://namupark.github.io/projects/3/)
 
 Steering gear noise classification using Convolutional-Recurrent Neural Network  
-*with Hyundai Mobis*
+*with Hyundai Mobis*  
+
+![](./steering_noise.png){:height="66%" width="66%"}
 
 ------
 
@@ -31,7 +33,7 @@ Steering gear noise classification using Convolutional-Recurrent Neural Network
 
 Translating affiliation and author information in medical publications (ENG2KOR)  
 *with College of Medicine, Yonsei University*  
-  
+
 ![](./translator.png){:height="66%" width="66%"}
 
 ------
