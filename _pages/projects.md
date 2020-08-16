@@ -44,8 +44,9 @@ Curation system that helps graduate students to search for publications of their
 ### [Poisonous Clause Detection using Word Embedding and Sentence Similarity](https://namupark.github.io/projects/6/)
 
 Detecting poisonous clause in a company  
-*with Samsung Engineering*   
-Below figure describes the same algorithm used in this project, applied in a benchmark data  
+*with Samsung Engineering*  
+   
+Below figure describes the algorithm used in this project, applied in a benchmark data (Kaggle Insult data)  
 ![](./clause.png){:height="66%" width="66%"}
 
 ------
@@ -72,6 +73,6 @@ Extracting user patterns using Monte-Carlo Tree Search algorithm in the semantic
 
 Checking the relationship between a student's participation in a group assignment and his/her final grade  
 *with Teaching and Learning Innovation Center, Yonsei University*   
-  
- 
+
+
 ![](./cyber_campus.png){:height="66%" width="66%"}
