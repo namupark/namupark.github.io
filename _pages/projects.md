@@ -53,7 +53,7 @@ Detecting poisonous clause in a company
 Illustrating the change in consumers' reaction after the delayed launching of the Galaxy Fold  
 *Spring 2019 course project for Text Mining* 
 
-![](./galaxy_fold.png)
+<img src="./galaxy_fold.png" style="zoom:67%;" />
 
 ------
 
