@@ -31,6 +31,7 @@ Steering gear noise classification using Convolutional-Recurrent Neural Network
 
 Translating affiliation and author information in medical publications (ENG2KOR)  
 *with College of Medicine, Yonsei University*  
+  
 ![](./translator.png){:height="66%" width="66%"}
 
 ------
