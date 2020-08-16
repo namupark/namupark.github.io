@@ -62,9 +62,12 @@ Illustrating the change in consumers' reaction after the delayed launching of th
 Extracting user patterns using Monte-Carlo Tree Search algorithm in the semantic graph  
 *with Electronics and Telecommunication Research Institute, Republic of Korea*
 
+![](./etri.png){:height="66%" width="66%"}
+
 ------
 
 ### [Sentimental Analysis of Cyber Campus data, focused on Group Assignment Discussion](https://namupark.github.io/projects/10/)
 
 Checking the relationship between a student's participation in a group assignment and his/her final grade  
 *with Teaching and Learning Innovation Center, Yonsei University*
+![](./cyber_campus.png){:height="66%" width="66%"}
