@@ -8,7 +8,7 @@ author_profile: true
 
 <br/>
 **Are we there yet? Analyzing scientific research related to COVID-19 drug repurposing.**   
-Namu Park, Hyeyoung Ryu, Ying Ding, Qi Yu, Yi Bu, Qi Wang, Jeremy J. Yang, Min Song 
+Namu Park, Hyeyoung Ryu, Ying Ding, Qi Yu, Yi Bu, Qi Wang, Jeremy J. Yang, Min Song   
 *Scientometrics* (submitted)
 
 **A Monte Carlo Search-based Triplet Sampling Method for Learning Disentangled Representation of Impulsive Noise on Steering Gear.**   
