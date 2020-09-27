@@ -7,11 +7,19 @@ author_profile: true
 ---
 
 <br/>
-**Are we there yet? Analyzing scientific research related to COVID-19 drug repurposing.**   
-Namu Park, Hyeyoung Ryu, Ying Ding, Qi Yu, Yi Bu, Qi Wang, Jeremy J. Yang, Min Song   
-*Scientometrics* (submitted)
 
-**A Monte Carlo Search-based Triplet Sampling Method for Learning Disentangled Representation of Impulsive Noise on Steering Gear.**   
+**Prediction of Lung Cancer TNM Staging in PET-CT Clinical Notes**  
+Namu Park, Hyung-Jun Park, Chang-Min Choi, Min Song (in preparation)
+
+**Are we there yet? Analyzing scientific research related to COVID-19 drug repurposing**   
+Namu Park, Hyeyoung Ryu, Ying Ding, Qi Yu, Yi Bu, Qi Wang, Jeremy J. Yang, Min Song   
+*Scientometrics* (under review) [[preprint](https://www.researchsquare.com/article/rs-80893/v1)]
+
+**Analyzing knowledge entities about COVID-19 using entitymetrics** 
+Qi Yu, Qi Wang, Yafei Zhang, Chongyan Chen, Hyeyoung Ryu, Namu Park, ... , Yi Bu.  
+ *Journal of the Association for Information Science and Technology* (under review)
+
+**A Monte Carlo Search-based Triplet Sampling Method for Learning Disentangled Representation of Impulsive Noise on Steering Gear**   
 Seok-Jun Bu, Namu Park, Gue-Hwan Nam, Jae-Yong Seo, Sung-Bae Cho  (Virtual Presentation Speaker)  
 *International Conference on Acoustics Speech and Signal Processing*, *2020* \[[<span style="color:blue">open preview</span>](https://ieeexplore.ieee.org/document/9053916)\]
 

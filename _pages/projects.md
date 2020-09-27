@@ -9,14 +9,16 @@ author_profile: true
 ### [Information Extraction from Electronic Health Records using Semi-supervised Learning](https://namupark.github.io/projects/1/)
 
 Extracting metastasis information on PET/CT diagnosis data  
-*with Asan Medical Center*
+*with Asan Medical Center*   
+![](./petct.png){:height="66%" width="66%"}
 
 ------
 
 ### [Consensus Analysis of Drug Repurposing Literatures for COVID-19](https://namupark.github.io/projects/2/)
 
 Observing the possible consensus among publications related to COVID-19 drug repurposing  
-*with Professor Ying Ding, School of Information, University of Texas, Austin*
+*with Professor Ying Ding, School of Information, University of Texas, Austin*  
+![](./drug_repurposing.png){:height="66%" width="66%"}
 
 ------
 
