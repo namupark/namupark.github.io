@@ -6,8 +6,6 @@ urlcolor: blue
 author_profile: true
 ---
 
-<br/>
-
 **Prediction of Lung Cancer TNM Staging in PET-CT Clinical Notes**  
 Namu Park, Hyung-Jun Park, Chang-Min Choi, Min Song (in preparation)
 
