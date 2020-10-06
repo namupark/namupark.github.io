@@ -17,4 +17,4 @@ Having been working on projects with [Asan Medical Center](http://eng.amc.seoul.
 
 I am currently working as a researcher at Asan Medical Center and focusing on solving diverse issues related to the usage of biomedical data. I believe that this experience would be a great asset for my future studies in the field of biomedical informatics and biomedical data science.
 
-My future goal is to contribute to the **efficient use of medical data** which will eventually help not only medical experts but also patients needing accurate diagnoses. In short, I would like to become **a data scientist with affluent knowledge in the biomedical domain.**
+My future goal is to contribute to the **efficient use of medical data** which will eventually help not only medical experts but also patients needing accurate diagnoses. In short, I would like to become **a data scientist proficient in analyzing (bio)medical data**
