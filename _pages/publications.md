@@ -15,7 +15,7 @@ Namu Park, Hyeyoung Ryu, Ying Ding, Qi Yu, Yi Bu, Qi Wang, Jeremy J. Yang, Min S
 
 **Analyzing knowledge entities about COVID-19 using entitymetrics**  
 Qi Yu, Qi Wang, Yafei Zhang, Chongyan Chen, Hyeyoung Ryu, Namu Park, ... , Yi Bu.  
- *Journal of the Association for Information Science and Technology* (under review)
+ *Journal of the Association for Information Science and Technology* (under revision)
 
 **A Monte Carlo Search-based Triplet Sampling Method for Learning Disentangled Representation of Impulsive Noise on Steering Gear**   
 Seok-Jun Bu, Namu Park, Gue-Hwan Nam, Jae-Yong Seo, Sung-Bae Cho  (Virtual Presentation Speaker)  
