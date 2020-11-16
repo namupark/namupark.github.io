@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Hello, my name is Namu!  
+
 I recently obtained my master's degree in Digital Analytics from Yonsei University, advised by Prof. [Min Song](http://informatics.yonsei.ac.kr/tsmm/minsong.html). I will be applying for the Ph.D. degree program for Fall 2021.
 
 As an undergraduate student, I majored in Convergence Software, Economics, and French Language & Culture. Studying three different majors helped me investigate things from various perspectives, which was helpful in conducting research projects from distinct fields.
