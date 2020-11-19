@@ -6,6 +6,14 @@ urlcolor: blue
 author_profile: true
 ---
 
+### [Development of the AI-based Cardiopulmonary Disease Prediction System using Biological Ring Sensors](https://namupark.github.io/projects/1/)
+
+Implementing the deep learning-based prediction system to predict cardiopulmonary disease  
+*at Asan Medical Center*   
+![``](./cardio_prediction.png){:height="66%" width="66%"}
+
+------
+
 ### [Information Extraction from Electronic Health Records using Semi-supervised Learning](https://namupark.github.io/projects/1/)
 
 Extracting metastasis information on PET/CT diagnosis data  
