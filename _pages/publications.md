@@ -17,6 +17,10 @@ Namu Park, Hyeyoung Ryu, Ying Ding, Qi Yu, Yi Bu, Qi Wang, Jeremy J. Yang, Min S
 Qi Yu, Qi Wang, Yafei Zhang, Chongyan Chen, Hyeyoung Ryu, Namu Park, ... , Yi Bu.  
  *Journal of the Association for Information Science and Technology* (under revision)
 
+**Information Extraction from Unstructured Medical Text using Pseudo-label-based  Semi-supervised Learning**   
+Namu Park
+*Yonsei University Graduate School* [[<span style="color:blue">pdf</span>]( http://www.dcollection.net/handler/yonsei/000000524225)] (In Korean)
+
 **A Monte Carlo Search-based Triplet Sampling Method for Learning Disentangled Representation of Impulsive Noise on Steering Gear**   
 Seok-Jun Bu, Namu Park, Gue-Hwan Nam, Jae-Yong Seo, Sung-Bae Cho  (Virtual Presentation Speaker)  
 *IEEE, International Conference on Acoustics, Speech and Signal Processing*, *2020* \[[<span style="color:blue">open preview</span>](https://ieeexplore.ieee.org/document/9053916)\]
