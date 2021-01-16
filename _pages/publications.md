@@ -6,7 +6,7 @@ urlcolor: blue
 author_profile: true
 ---
 
-**Prediction of Lung Cancer TNM Staging in PET-CT Clinical Notes**  
+**Prediction of Lung Cancer TNM Staging in Lung Radiology Reports**  
 Namu Park, Hyung-Jun Park, Chang-Min Choi, Min Song (in preparation)
 
 **Are we there yet? Analyzing scientific research related to COVID-19 drug repurposing**   
