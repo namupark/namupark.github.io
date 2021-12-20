@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Namu and I am a Ph.D. student at University of Washington, Seattle.
+Hello, my name is Namu and I am a Ph.D. student at University of Washington, Seattle, advised by Professor Meliha Yetisgen.
 
 I obtained my master's degree in Digital Analytics from Yonsei University, advised by Prof. [Min Song](http://informatics.yonsei.ac.kr/tsmm/minsong.html).
 
