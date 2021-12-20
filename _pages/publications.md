@@ -11,7 +11,7 @@ Namu Park, Hyung-Jun Park, Chang-Min Choi, Min Song (in preparation)
 
 **Are we there yet? Analyzing scientific research related to COVID-19 drug repurposing**   
 Namu Park, Hyeyoung Ryu, Ying Ding, Qi Yu, Yi Bu, Qi Wang, Jeremy J. Yang, Min Song   
-*Scientometrics* (under review) [[<span style="color:blue">preprint</span>](https://www.researchsquare.com/article/rs-80893/v1)]
+*International Conference on Scientometrics and Informetrics (ISSI), 2021.* 
 
 **Analyzing knowledge entities about COVID-19 using entitymetrics**  
 Qi Yu, Qi Wang, Yafei Zhang, Chongyan Chen, Hyeyoung Ryu, Namu Park, ... , Yi Bu.  
