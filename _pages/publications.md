@@ -15,7 +15,7 @@ Namu Park, Hyeyoung Ryu, Ying Ding, Qi Yu, Yi Bu, Qi Wang, Jeremy J. Yang, Min S
 
 **Analyzing knowledge entities about COVID-19 using entitymetrics**  
 Qi Yu, Qi Wang, Yafei Zhang, Chongyan Chen, Hyeyoung Ryu, Namu Park, ... , Yi Bu.  
- *Journal of the Association for Information Science and Technology* (under revision)
+*Scientometrics, 2021.*
 
 **Information Extraction from Unstructured Medical Text using Pseudo-label-based  Semi-supervised Learning**   
 Namu Park  
